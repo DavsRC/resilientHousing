@@ -50,19 +50,27 @@
         "icon": "bi-info-circle-fill",
         "childrens": [
             {
-                "title": "Login",
+                "title": "Enrollment & Screening",
                 "path": "/login"
             },
             {
-                "title": "Register",
+                "title": "Selection & Assessment",
                 "path": "/register"
             },
             {
-                "title": "Forgot Password",
+                "title": "Design",
                 "path": "/forgot-password"
             },
             {
-                "title": "Reset Password",
+                "title": "Finance",
+                "path": "/reset-password"
+            },
+            {
+                "title": "Rule",
+                "path": "/reset-password"
+            },
+            {
+                "title": "Project Close Out",
                 "path": "/reset-password"
             }
         ]
@@ -72,11 +80,11 @@
         "icon": "bi-person-fill",
         "childrens": [
             {
-                "title": "Profile",
+                "title": "Fulcrum",
                 "path": "/profile"
             },
             {
-                "title": "Settings",
+                "title": "Magicplan",
                 "childrens": [
                     {
                         "title": "Account",
@@ -102,22 +110,26 @@
                 ]
             },
             {
-                "title": "Logout",
+                "title": "Revit",
+                "path": "/logout"
+            },
+            {
+                "title": "Google Sheets",
+                "path": "/logout"
+            },
+            {
+                "title": "Dynamo",
                 "path": "/logout"
             }
         ]
     },
     {
-        "title": "DOcumentation",
+        "title": "Documentation",
         "icon": "bi-view-list",
         "childrens": [
             {
-                "title": "Search",
+                "title": "Services App",
                 "path": "/search"
-            },
-            {
-                "title": "History",
-                "path": "/history"   
             }
         ]
     }

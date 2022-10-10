@@ -15,7 +15,7 @@ li {
 }
 a {
   text-decoration: none;
-  color:#9ec54d;
+  color:white;
 }
 
 .nav {
@@ -24,7 +24,7 @@ a {
   justify-content: space-around;
   height: 8vh;
   background: #6383a8;
-  border-bottom: 2px solid black;
+  border-bottom: 2px solid #516985;
 }
 .nav__brand {
   text-transform: uppercase;

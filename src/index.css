@@ -70,7 +70,7 @@ body{
   border-radius: 5px;
 }
 .sidebar-item:hover{
-  background-color: rgba(255, 255, 255, .1);
+  background-color: rgba(185, 212, 122, 0.5);
 }
 
 .sidebar-title{
